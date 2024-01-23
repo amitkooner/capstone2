@@ -1,11 +1,5 @@
 # New York Airbnb Open Data 2024 Project
 
-Certainly! Here's the revised `README.md` with the requested changes:
-
----
-
-# Airbnb Price Prediction Project
-
 ## 1. Problem Description and Solution Usage
 
 ### Problem Statement
